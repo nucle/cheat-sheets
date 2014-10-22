@@ -642,9 +642,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="162.20979"
-     inkscape:cy="402.51218"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="769.75919"
+     inkscape:cy="624.91343"
      inkscape:current-layer="layer1"
      id="namedview3461"
      showgrid="true"
@@ -700,83 +700,75 @@
          x="26.058945"
          y="48.646408"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Git Cheat Sheet</tspan></text>
-    <g
-       id="g7849"
-       transform="translate(11.693523,0)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2820-1-1"
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="796.40552"
+       y="47.50927"
+       id="text2820-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="796.40552"
          y="47.50927"
-         x="784.71198"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"><tspan
-           id="tspan6291"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="47.50927"
-           x="784.71198"
-           sodipodi:role="line">git help [command]</tspan></text>
-      <text
-         id="text3609"
-         y="36.691311"
-         x="774.71338"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-         xml:space="preserve"><tspan
-           y="36.691311"
-           x="774.71338"
-           id="tspan3611"
-           sodipodi:role="line">Get Help!</tspan></text>
-    </g>
-    <g
-       id="g7862"
-       transform="translate(4.196167e-5,0)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2820-1-1-9"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan6291">git help [command]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="786.40692"
+       y="36.691311"
+       id="text3609"><tspan
+         sodipodi:role="line"
+         id="tspan3611"
+         x="786.40692"
+         y="36.691311">Get Help!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="922.86407"
+       y="47.50927"
+       id="text2820-1-1-9"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan8637"
+         sodipodi:role="line"
+         x="922.86407"
          y="47.50927"
-         x="922.86401"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="47.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan8637">http://book.git-scm.com/</tspan><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="57.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan4037">http://gitref.org/</tspan><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="67.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan4039">http://learn.github.com/</tspan><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="77.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan4041">http://help.github.com/</tspan><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="87.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan4043">http://progit.org/book/</tspan><tspan
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="97.50927"
-           x="922.86401"
-           sodipodi:role="line"
-           id="tspan4045">http://gitready.com/</tspan></text>
-      <text
-         id="text3609-1"
-         y="36.691307"
-         x="906.71338"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-         xml:space="preserve"><tspan
-           y="36.691307"
-           x="906.71338"
-           id="tspan3611-7"
-           sodipodi:role="line">Learn More!</tspan></text>
-    </g>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://book.git-scm.com/</tspan><tspan
+         id="tspan4037"
+         sodipodi:role="line"
+         x="922.86407"
+         y="57.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://gitref.org/</tspan><tspan
+         id="tspan4039"
+         sodipodi:role="line"
+         x="922.86407"
+         y="67.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://learn.github.com/</tspan><tspan
+         id="tspan4041"
+         sodipodi:role="line"
+         x="922.86407"
+         y="77.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://help.github.com/</tspan><tspan
+         id="tspan4043"
+         sodipodi:role="line"
+         x="922.86407"
+         y="87.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://progit.org/book/</tspan><tspan
+         id="tspan4045"
+         sodipodi:role="line"
+         x="922.86407"
+         y="97.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">http://gitready.com/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="906.71344"
+       y="36.691307"
+       id="text3609-1"><tspan
+         sodipodi:role="line"
+         id="tspan3611-7"
+         x="906.71344"
+         y="36.691307">Learn More!</tspan></text>
     <rect
        style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6213-7-0-8-3-4"
@@ -1300,79 +1292,35 @@
        id="text2876-7-9-4"
        y="450.71375"
        x="216.52179"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000142999999753%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"
        sodipodi:linespacing="136%"><tspan
          y="450.71375"
          x="216.52179"
          sodipodi:role="line"
-         id="tspan6070-0-2">git commit -a</tspan></text>
+         id="tspan6070-0-2">git commit </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
        x="210"
-       y="466.51221"
+       y="492.51221"
        id="text2820-1-2-4-8-0"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-7-97"
          x="210"
-         y="466.51221"
-         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Rename last commit</tspan></text>
+         y="492.51221"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Changes last commit</tspan></text>
     <text
        id="text2876-7-9-7-3"
-       y="477.13153"
+       y="503.13153"
        x="216.52179"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000142999999753%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"
        sodipodi:linespacing="136%"><tspan
-         y="477.13153"
+         y="503.13153"
          x="216.52179"
          sodipodi:role="line"
          id="tspan6070-0-8-7">git commit --amend</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="210"
-       y="492.88702"
-       id="text2820-1-2-4-7-2"><tspan
-         sodipodi:role="line"
-         id="tspan2822-7-9-3-1-6"
-         x="210"
-         y="492.88702"
-         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Push changes to origin</tspan></text>
-    <text
-       id="text2876-7-9-0-0"
-       y="503.50629"
-       x="216.52179"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-       xml:space="preserve"
-       sodipodi:linespacing="136%"><tspan
-         y="503.50629"
-         x="216.52179"
-         sodipodi:role="line"
-         id="tspan6070-0-7-1">git push [REMOTE] [BRANCH]</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="210"
-       y="519.30475"
-       id="text2820-1-2-4-8-4-6"><tspan
-         sodipodi:role="line"
-         id="tspan2822-7-9-3-7-9-5"
-         x="210"
-         y="519.30475"
-         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Make a version or milestone</tspan></text>
-    <text
-       id="text2876-7-9-7-6-7"
-       y="529.92407"
-       x="216.52179"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-       xml:space="preserve"
-       sodipodi:linespacing="136%"><tspan
-         y="529.92407"
-         x="216.52179"
-         sodipodi:role="line"
-         id="tspan6070-0-8-5-5">git tag &lt;VERSION_NAME&gt;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;text-anchor:end;fill:#ed8b1f;fill-opacity:1;stroke:none;font-family:Droid sans;-inkscape-font-specification:Droid sans"
@@ -1384,7 +1332,7 @@
          id="tspan3741-9-1"
          x="178.45418"
          y="539.42596"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#ed8b1f;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Branch</tspan></text>
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#ed8b1f;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Branch/Tag</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
@@ -1695,37 +1643,33 @@
          x="676.90399"
          id="tspan2878-2-3-6-7"
          sodipodi:role="line">This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License : http://creativecommons.org/licenses/by-sa/3.0/</tspan></text>
-    <g
-       id="g7855"
-       transform="translate(16.191082,0)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2820-1-1-9-8"
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="708.09705"
+       y="47.50927"
+       id="text2820-1-1-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="708.09705"
          y="47.50927"
-         x="691.90594"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"><tspan
-           id="tspan6291-2-2"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="47.50927"
-           x="691.90594"
-           sodipodi:role="line">&lt;required&gt;</tspan><tspan
-           id="tspan3703"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="57.50927"
-           x="691.90594"
-           sodipodi:role="line">[optional]</tspan></text>
-      <text
-         id="text3609-0"
-         y="36.691311"
-         x="682.84485"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-         xml:space="preserve"><tspan
-           y="36.691311"
-           x="682.84485"
-           id="tspan3611-8"
-           sodipodi:role="line">Legend</tspan></text>
-    </g>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan6291-2-2">&lt;required&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="708.09705"
+         y="57.50927"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan3703">[optional]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="699.03595"
+       y="36.691311"
+       id="text3609-0"><tspan
+         sodipodi:role="line"
+         id="tspan3611-8"
+         x="699.03595"
+         y="36.691311">Legend</tspan></text>
     <g
        id="g5052"
        transform="translate(12.984181,-69.994094)">
@@ -2383,32 +2327,6 @@
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="474.75067"
-       y="465.33826"
-       id="text2820-1-2-4-8-4-6-6-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan2822-7-9-3-7-9-5-8-2-9"
-         x="474.75067"
-         y="465.33826"
-         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Delete remote branch and locally</tspan></text>
-    <text
-       id="text2876-7-9-7-6-7-7-8-1"
-       y="475.95752"
-       x="481.27246"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000142999999753%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-       xml:space="preserve"
-       sodipodi:linespacing="136%"><tspan
-         y="475.95752"
-         x="481.27246"
-         sodipodi:role="line"
-         id="tspan8639-2-3">git push &lt;REMOTE&gt; :&lt;BRANCH&gt;</tspan><tspan
-         y="486.83752"
-         x="481.27246"
-         sodipodi:role="line"
-         id="tspan8708">git branch -d &lt;BRANCH&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
        x="475"
        y="308.09448"
        id="text2820-1-2-4-8-4-6-6-8-99"><tspan
@@ -2953,79 +2871,79 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;text-anchor:end;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="364.97791"
-       y="555.40387"
+       x="365.00909"
+       y="540.36993"
        id="text3739-2-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3741-7-3-1"
-         x="364.97791"
-         y="555.40387"
+         x="365.00909"
+         y="540.36993"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#4f524f;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Publish</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="201.85944"
-       y="570.48779"
+       x="201.89062"
+       y="555.45386"
        id="text2820-1-2-4-8-0-8"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-7-97-8"
-         x="201.85944"
-         y="570.48779"
+         x="201.89062"
+         y="555.45386"
          style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Prepare a patch for other developpers</tspan></text>
     <text
        id="text2876-7-9-7-3-2"
-       y="581.10712"
-       x="208.38123"
+       y="566.07318"
+       x="208.41241"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"
        sodipodi:linespacing="136%"><tspan
-         y="581.10712"
-         x="208.38123"
+         y="566.07318"
+         x="208.41241"
          sodipodi:role="line"
          id="tspan6070-0-8-7-3">git format-patch origin</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="201.85944"
-       y="596.86261"
+       x="201.89062"
+       y="581.82867"
        id="text2820-1-2-4-7-2-2"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-1-6-3"
-         x="201.85944"
-         y="596.86261"
+         x="201.89062"
+         y="581.82867"
          style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Push changes to origin</tspan></text>
     <text
        id="text2876-7-9-0-0-0"
-       y="607.48187"
-       x="208.38123"
+       y="592.44794"
+       x="208.41241"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"
        sodipodi:linespacing="136%"><tspan
-         y="607.48187"
-         x="208.38123"
+         y="592.44794"
+         x="208.41241"
          sodipodi:role="line"
          id="tspan6070-0-7-1-4">git push [REMOTE] [BRANCH]</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
-       x="201.85944"
-       y="623.28033"
+       x="13.47821"
+       y="688.47516"
        id="text2820-1-2-4-8-4-6-4"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-7-9-5-4"
-         x="201.85944"
-         y="623.28033"
+         x="13.47821"
+         y="688.47516"
          style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Make a version or milestone</tspan></text>
     <text
        id="text2876-7-9-7-6-7-8"
-       y="633.89966"
-       x="208.38123"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       y="699.09448"
+       x="20"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000142999999753%;writing-mode:lr-tb;text-anchor:start;fill:#ed8b1f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"
        sodipodi:linespacing="136%"><tspan
-         y="633.89966"
-         x="208.38123"
+         y="699.09448"
+         x="20"
          sodipodi:role="line"
          id="tspan6070-0-8-5-5-61">git tag &lt;VERSION_NAME&gt;</tspan></text>
     <rect
@@ -3033,7 +2951,127 @@
        id="rect6213-7-0-79-7"
        width="166.33655"
        height="3.398566"
-       x="201.21617"
-       y="555.67871" />
+       x="201.24736"
+       y="540.64478" />
+    <text
+       id="text2876-7-9-4-3"
+       y="462.71375"
+       x="215.52179"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="462.71375"
+         x="215.52179"
+         sodipodi:role="line"
+         id="tspan6070-0-2-5">git commit -m '[MESSAGE]'</tspan></text>
+    <text
+       id="text2876-7-9-4-3-5"
+       y="474.71375"
+       x="215.52179"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#e23636;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="474.71375"
+         x="215.52179"
+         sodipodi:role="line"
+         id="tspan6070-0-2-5-5">git commit -a -m '[MESSAGE]'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="200.47821"
+       y="608.47522"
+       id="text2820-1-2-4-7-2-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-6-3-7"
+         x="200.47821"
+         y="608.47522"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Fetch changes</tspan></text>
+    <text
+       id="text2876-7-9-0-0-0-7"
+       y="619.09448"
+       x="207"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="619.09448"
+         x="207"
+         sodipodi:role="line"
+         id="tspan6070-0-7-1-4-8">git fetch [REMOTE]</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3586"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:roboto"><flowRegion
+         id="flowRegion3588"><rect
+           id="rect3590"
+           width="171.82695"
+           height="59.396969"
+           x="171.11984"
+           y="597.72339" /></flowRegion><flowPara
+         id="flowPara3592"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="203.47821"
+       y="633.47522"
+       id="text2820-1-2-4-7-2-2-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-6-3-7-6"
+         x="203.47821"
+         y="633.47522"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Delete renote branch</tspan></text>
+    <text
+       id="text2876-7-9-0-0-0-7-9"
+       y="644.09448"
+       x="210"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="644.09448"
+         x="210"
+         sodipodi:role="line"
+         id="tspan6070-0-7-1-4-8-5">git push [REMOTE] :[BRANCH]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="203.47821"
+       y="658.47522"
+       id="text2820-1-2-4-7-2-2-4-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-6-3-7-6-0"
+         x="203.47821"
+         y="658.47522"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Publish tags</tspan></text>
+    <text
+       id="text2876-7-9-0-0-0-7-9-1"
+       y="669.09448"
+       x="210"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="669.09448"
+         x="210"
+         sodipodi:role="line"
+         id="tspan3648">git  push origin/upstream --tags</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="203.47821"
+       y="683.47522"
+       id="text2820-1-2-4-7-2-2-4-3-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-6-3-7-6-0-6"
+         x="203.47821"
+         y="683.47522"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">List remotes</tspan></text>
+    <text
+       id="text2876-7-9-0-0-0-7-9-1-0"
+       y="694.09448"
+       x="210"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="694.09448"
+         x="210"
+         sodipodi:role="line"
+         id="tspan3648-8">git  [REMOTE] -v</tspan></text>
   </g>
 </svg>
