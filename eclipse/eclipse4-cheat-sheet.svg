@@ -25,7 +25,7 @@
    xml:space="preserve"><metadata
      id="metadata2009"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3"><inkscape:perspective
        id="perspective3466"
        inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
@@ -504,9 +504,9 @@
      id="namedview3461"
      showguides="true"
      showgrid="true"
-     inkscape:cy="302.61124"
-     inkscape:cx="592.52596"
-     inkscape:zoom="1.4142137"
+     inkscape:cy="426.09974"
+     inkscape:cx="338.88089"
+     inkscape:zoom="2.8284274"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
@@ -571,35 +571,16 @@
      font-size="8"
      id="text112">From existing data</text>
 <text
-     transform="matrix(1 0 0 1 14 120.9678)"
-     fill="#A87BA4"
-     font-family="'Arial-BoldMT'"
+     transform="translate(14,120.9678)"
      font-size="8"
-     id="text114">cd ~/projects/myproject</text>
+     id="text114"
+     style="font-size:8px;fill:#a87ba4;font-family:Arial-BoldMT">@Active</text>
 <text
-     transform="matrix(1 0 0 1 14 130.9678)"
-     fill="#A87BA4"
-     font-family="'Arial-BoldMT'"
-     font-size="8"
-     id="text116">git init</text>
-<text
-     transform="matrix(1 0 0 1 20.0391 515.3584)"
-     fill="#00BFEA"
-     font-family="'Arial-BoldMT'"
-     font-size="8"
-     id="text174">git grep &lt;PATTERN&gt; [PATH]</text>
-<text
-     transform="matrix(1 0 0 1 45.5513 494.4971)"
-     fill="#4F524F"
-     font-family="'ArialMT'"
-     font-size="7"
-     id="text184">star &quot;*&quot; marks the current branch</text>
-<text
-     transform="matrix(1 0 0 1 298.6753 425.4287)"
-     fill="#E23636"
-     font-family="'Arial-BoldMT'"
      font-size="20"
-     id="text206">Commit</text>
+     id="text206"
+     x="456.31039"
+     y="426.98022"
+     style="font-size:20px;fill:#e23636;font-family:Arial-BoldMT">Commit</text>
 <text
      transform="matrix(1 0 0 1 665.8208 804.3955)"
      fill="#4F524F"
@@ -616,68 +597,286 @@
      font-size="20"
      id="text486"
      style="font-size:20px;fill:#7cc142;font-family:Arial-BoldMT"
-     x="220.74429"
-     y="93.094597">Custom objects</text>
+     x="380"
+     y="95.275017">Custom objects</text>
 <rect
      id="rect6213-7-0-5"
-     x="210.734"
-     y="95.711"
-     fill="#DCDCDC"
+     x="369.98969"
+     y="97.891418"
      width="166.336"
-     height="3.399" /><rect
+     height="3.3989999"
+     style="fill:#dcdcdc" /><rect
      id="rect6213-7-0-6"
-     x="10.665"
-     y="250.692"
-     fill="#DCDCDC"
+     x="11.229299"
+     y="216.94952"
      width="166.336"
-     height="3.398" /><rect
+     height="3.398"
+     style="fill:#dcdcdc" /><rect
      id="rect6213-7-0-9"
-     x="209.868"
-     y="305.733"
-     fill="#DCDCDC"
-     width="166.337"
-     height="3.399" /><rect
+     x="367.50308"
+     y="307.28452"
+     width="166.33701"
+     height="3.3989999"
+     style="fill:#dcdcdc" /><rect
      id="rect6213-7-0-79"
-     x="209.357"
-     y="425.703"
-     fill="#DCDCDC"
+     x="366.9921"
+     y="427.25452"
      width="166.336"
-     height="3.398" /><rect
+     height="3.398"
+     style="fill:#dcdcdc" /><rect
      id="rect6213-7-0-2"
-     x="11.045"
-     y="540.717"
-     fill="#DCDCDC"
+     x="8.1259003"
+     y="366.56628"
      width="167.586"
-     height="3.398" /><text
-     transform="matrix(1 0 0 1 292.7828 540.37)"
-     fill="#4F524F"
-     font-family="'Arial-BoldMT'"
+     height="3.398"
+     style="fill:#dcdcdc" /><text
      font-size="20"
-     id="text533">Publish</text>
+     id="text533"
+     x="450.41788"
+     y="541.92151"
+     style="font-size:20px;fill:#4f524f;font-family:Arial-BoldMT">Publish</text>
 <rect
      id="rect6213-7-0-79-7"
-     x="201.248"
-     y="540.644"
-     fill="#DCDCDC"
+     x="358.88309"
+     y="542.1955"
      width="166.336"
-     height="3.398" /><g
+     height="3.398"
+     style="fill:#dcdcdc" /><g
      id="flowRoot3586" /><g
      id="flowRoot3721" /><text
      font-size="20"
      id="text1992"
      style="font-size:20px;fill:#ed8b1f;font-family:Arial-BoldMT"
-     x="57.919098"
-     y="539.42572">Eventbroker</text>
+     x="55"
+     y="365.27502">Eventbroker</text>
 <text
-     transform="matrix(1 0 0 1 302.3649 303.7235)"
-     fill="#FCC310"
-     font-family="'Arial-BoldMT'"
      font-size="20"
-     id="text1994">Update</text>
+     id="text1994"
+     x="460"
+     y="305.27502"
+     style="font-size:20px;fill:#fcc310;font-family:Arial-BoldMT">Update</text>
 <text
      font-size="20"
      id="text1996"
-     style="font-size:20px;fill:#00bfea;font-family:Arial-BoldMT"
-     x="97.435699"
-     y="249.0175">Handler</text>
+     style="font-size:20px;fill:#40e0d0;font-family:Arial-BoldMT"
+     x="60"
+     y="215.27501">Preferences</text>
+<text
+     y="380.38702"
+     x="8.8626013"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5">Injecting the event service via:</text>
+<text
+     y="391.12433"
+     x="13.080901"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4">@Inject</text>
+<text
+     y="401.12433"
+     x="13.080901"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text116-6">private IEventBroker eventBroker;</text>
+<text
+     y="413.38702"
+     x="8.8626013"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1">Sending asynchronously:</text>
+<text
+     y="424.12433"
+     x="13.080901"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4-4">eventBroker.post(&lt;TAG&gt;,&lt;DATA&gt;);</text>
+<text
+     y="435.38702"
+     x="8.8626013"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1-5">Sending synchronously:</text>
+<text
+     y="446.12433"
+     x="13.080901"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4-4-8">eventBroker.send(&lt;TAG&gt;,&lt;DATA&gt;);</text>
+<text
+     y="458.38702"
+     x="8.8626013"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1-5-9">Receiving events on UI thread:</text>
+<flowRoot
+     xml:space="preserve"
+     id="flowRoot3198"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:roboto"><flowRegion
+       id="flowRegion3200"><rect
+         id="rect3202"
+         width="207.49998"
+         height="45.999996"
+         x="-17.999998"
+         y="410.27505" /></flowRegion><flowPara
+       id="flowPara3204"></flowPara></flowRoot><text
+     y="466.27502"
+     x="10.999999"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4-7">@Inject</text>
+<text
+     y="476.27502"
+     x="10.999999"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text116-6-3">private void getNotified(@UIEventTopic(&lt;TAG&gt;)){}</text>
+<text
+     y="490.27502"
+     x="9.999999"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1-5-9-6">Receiving events:</text>
+<text
+     y="498.16302"
+     x="12.137397"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4-7-1">@Inject</text>
+<text
+     y="508.16302"
+     x="12.137397"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text116-6-3-4">private void getNotified(@EventTopic(&lt;TAG&gt;)){}</text>
+<text
+     y="520.27502"
+     x="10"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1-5-9-6-8">Eclipse framework events:</text>
+<text
+     y="528.16302"
+     x="12.137398"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-4-7-1-5">org.eclipse.e4.ui.workbench.UIEvents.</text>
+<text
+     y="545.27502"
+     x="10"
+     style="font-size:8px;fill:#ed8b1f;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text116-6-3-4-8">org.osgi.service.event.Event.</text>
+<text
+     y="537.27502"
+     x="10"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-5-1-5-9-6-8-0">Sends out objects from type:</text>
+<text
+     y="230.79523"
+     x="11.345999"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6">Instance scope: (Same programm but different settings)</text>
+<text
+     y="241.53253"
+     x="15.564299"
+     style="font-size:8px;fill:#40e0d0;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2">prefs = InstanceScope.INSTANCE.getNode(&lt;NAME&gt;);</text>
+<text
+     y="255.79523"
+     x="11.345999"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6-0">Configuration scope: (Same programm but same settings)</text>
+<text
+     y="266.53253"
+     x="15.564299"
+     style="font-size:8px;fill:#40e0d0;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-4">prefs = ConfigurationScope.INSTANCE.getNode(&lt;NAME&gt;);</text>
+<text
+     y="280.79523"
+     x="11.345999"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6-3">Default scope: (Can not be changed. Config files)</text>
+<text
+     y="291.53253"
+     x="15.564299"
+     style="font-size:8px;fill:#40e0d0;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-1">prefs = DefaultScope.INSTANCE.getNode(&lt;NAME&gt;);</text>
+<flowRoot
+     xml:space="preserve"
+     id="flowRoot3347"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:roboto"><flowRegion
+       id="flowRegion3349"><rect
+         id="rect3351"
+         width="292.74219"
+         height="149.55307"
+         x="-33.58757"
+         y="193.63841" /></flowRegion><flowPara
+       id="flowPara3353"></flowPara></flowRoot><text
+     y="114.53771"
+     x="365.78171"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6-08">Annotate custom objects with:</text>
+<text
+     y="125.27502"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-8">@Createable</text>
+<text
+     y="135.27501"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-8-5">public class Object {</text>
+<text
+     y="135.27501"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text3412">public class Object {}</text>
+<text
+     y="149.53772"
+     x="365.78171"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6-08-2">Create objects in the app context, use:</text>
+<text
+     y="160.27501"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-8-4">@Createable</text>
+<text
+     y="180.27501"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text3412-1">public class Object {}</text>
+<text
+     y="170.27501"
+     x="371"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-8-4-5">@Singleton</text>
+<text
+     y="194.5377"
+     x="365.78171"
+     style="font-size:8px;font-family:ArialMT"
+     font-size="8"
+     id="text112-6-08-1">Create object with IEclipseContext:</text>
+<text
+     y="205.27501"
+     x="370"
+     style="font-size:8px;fill:#7cc142;fill-opacity:1;font-family:Arial-BoldMT"
+     font-size="8"
+     id="text114-2-8-8">ContextInjectionFactory.make(Object.class, context);</text>
 </svg>
